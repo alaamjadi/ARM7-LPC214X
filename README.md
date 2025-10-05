@@ -1,6 +1,6 @@
 # ARM7 LPC214x Microcontroller Examples
 
-This repository contains a collection of example projects originally developed in 2013 for an introductory ARM programming course at IAUCTB. The examples were designed to teach fundamental concepts of microcontroller programming using the ARM7 LPC214x series. These examples demonstrate various GPIO operations, from basic LED control to seven-segment display implementations, using different programming approaches that progressively increase in complexity.
+This repository contains a collection of example projects originally developed in 2012 for an introductory ARM programming course at IAUCTB. The examples were designed to teach fundamental concepts of microcontroller programming using the ARM7 LPC214x series. These examples demonstrate various GPIO operations, from basic LED control to seven-segment display implementations, using different programming approaches that progressively increase in complexity.
 
 ## Project Structure
 
